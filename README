@@ -2,8 +2,9 @@ README
 
 Quick Union Algorithm (from Sedgewick) Solved in C# using TDD
 ============================================================
-In "Algorithms in Java", by Robert Sedgewick, available on Amazon.com here, chapter 1 explore a
-connectivity algorithm in increasingly complex iterations.
+In "Algorithms in Java", by Robert Sedgewick, available on Amazon.com here:
+http://www.amazon.com/Bundle-Algorithms-Java-Third-Parts/dp/0201775786/
+Chapter 1 explore a connectivity algorithm in increasingly complex iterations.
 
 The goal of the connectivity process is as follows:
    1. be able to add pairs of connections as integers (2-3, 5-1, 8-7).
